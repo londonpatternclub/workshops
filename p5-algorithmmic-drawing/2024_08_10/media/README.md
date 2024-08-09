@@ -6,11 +6,11 @@
 ### Workshop plan
 - **Introduction to London Pattern Club** (James)<br><br>
 - **Introduction to p5.js** (Marysia)
-	- what is p5 and how it relates to JavaScript
-	- intro to the code editor
-	- documentation
+	- what is p5 and how it relates to JavaScript: https://p5js.org/
+	- intro to the code editor: https://editor.p5js.org/
+	- documentation: https://p5js.org/reference/
 	- looking for resources
-	- a list of resources<br><br>
+    - [further learning resources](#further-learning-resources) <br><br>
   
 - **Beginner coding intro** (Marysia):
 	- how to draw a circle
@@ -35,8 +35,10 @@ Feel free to refer to the code from earlier demos, p5 documentation, search engi
 I would encourage you to start coding on your own, without the help of AI - it will help build a better foundation for your skills.
 
 If you decide to use AI, for example ChatGPT, try to use prompts like "could you explain this code to me" or "could you explain how to" rather than "generate code for..."
+<p style='text-align: right;'> ~ Marysia </p>
 
 Hope you have fun 👾
 
 ### Further learning resources
 [Click here](./learning_resources.md)
+
