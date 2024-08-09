@@ -12,7 +12,7 @@
 	- looking for resources
     - [further learning resources](#further-learning-resources) <br><br>
   
-- **Beginner coding intro** (Marysia):
+- **Beginner coding intro** - [slides](https://github.com/londonpatternclub/workshops/blob/main/p5-algorithmmic-drawing/2024_08_10/media/2024_08_10_pattern_club_p5_intro_no_images.pdf) (Marysia):
   - Demo 1 - the interface and printing to the console<br>
   	- code - starter: https://editor.p5js.org/marysiatanska/sketches/mttZ385he
     - code - finished - will be added after the workshop<br><br>
