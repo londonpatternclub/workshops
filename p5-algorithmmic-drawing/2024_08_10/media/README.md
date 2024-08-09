@@ -5,14 +5,15 @@
 
 ### Workshop plan
 - **Introduction to London Pattern Club** (James)<br><br>
-- **Introduction to p5.js** (Marysia)
-	- what is p5 and how it relates to JavaScript: https://p5js.org/about/
-	- intro to the code editor: https://editor.p5js.org/
-	- documentation: https://p5js.org/reference/
-	- looking for resources
-    - [further learning resources](#further-learning-resources) <br><br>
+- **Introduction to algorithmic modelling and p5.js** - [slides](https://github.com/londonpatternclub/workshops/blob/main/p5-algorithmmic-drawing/2024_08_10/media/2024_08_10_pattern_club_p5_intro_no_images.pdf) (Marysia)
+  - what is algorithmic drawing
+  - what is p5 and how it relates to JavaScript: https://p5js.org/about/
+  - intro to the code editor: https://editor.p5js.org/
+  - documentation: https://p5js.org/reference/
+  - looking for resources
+  - [further learning resources](#further-learning-resources) <br><br>
   
-- **Beginner coding intro** - [slides](https://github.com/londonpatternclub/workshops/blob/main/p5-algorithmmic-drawing/2024_08_10/media/2024_08_10_pattern_club_p5_intro_no_images.pdf) (Marysia):
+- **Beginner coding intro** (Marysia):
   - Demo 1 - the interface and printing to the console<br>
   	- code - starter: https://editor.p5js.org/marysiatanska/sketches/mttZ385he
     - code - finished - will be added after the workshop<br><br>
