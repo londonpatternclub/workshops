@@ -37,3 +37,6 @@ I would encourage you to start coding on your own, without the help of AI - it w
 If you decide to use AI, for example ChatGPT, try to use prompts like "could you explain this code to me" or "could you explain how to" rather than "generate code for..."
 
 Hope you have fun 👾
+
+### Further learning resources
+[Click here](./learning_resources.md)
