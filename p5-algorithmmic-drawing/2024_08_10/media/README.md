@@ -30,6 +30,7 @@
     - code - starter: duplicate the finished Demo 2
     - code - finished - will be added after the workshop<br><br>
 - **Introduction to Anni Albers** (James)<br><br>
+- https://editor.p5js.org/marysiatanska/sketches/ZNe8_WLqY
 - **Coding demo: make an Anni-Albers-style graphic** (James)
 
 ### Exercise
