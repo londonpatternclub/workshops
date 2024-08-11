@@ -5,7 +5,7 @@
 
 ### Workshop plan
 - **Introduction to London Pattern Club** (James)<br><br>
-- **Introduction to algorithmic modelling and p5.js** - [slides](https://github.com/londonpatternclub/workshops/blob/main/p5-algorithmmic-drawing/2024_08_10/media/2024_08_10_pattern_club_p5_intro_no_images.pdf) (Marysia)
+- **Introduction to algorithmic modelling and p5.js** - [slides](https://github.com/londonpatternclub/workshops/blob/main/p5-algorithmic-drawing/2024_08_10/media/2024_08_10_pattern_club_p5_intro_no_images.pdf) (Marysia)
   - what is algorithmic drawing
   - what is p5 and how it relates to JavaScript: https://p5js.org/about/
   - intro to the code editor: https://editor.p5js.org/
@@ -30,8 +30,10 @@
     - code - starter: duplicate the finished Demo 2
     - code - finished - will be added after the workshop<br><br>
 - **Introduction to Anni Albers** (James)<br><br>
-- https://editor.p5js.org/marysiatanska/sketches/ZNe8_WLqY
-- **Coding demo: make an Anni-Albers-style graphic** (James)
+  - Miro board: https://miro.com/app/board/uXjVKB2lkOc=/
+  - **Coding demo:** 
+  make an Anni-Albers-style graphic<br>
+  https://editor.p5js.org/marysiatanska/sketches/ZNe8_WLqY<br><br>
 
 ### Exercise
 Try to expand the code from James's demo into your own artwork. Things you could try:
